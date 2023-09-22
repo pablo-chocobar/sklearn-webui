@@ -1,9 +1,12 @@
 # sklearn-webui
 a web interface for scikit learn
 
-the backend repository can be found here [here](https://github.com/pablo-chocobar/sklearn-ui-backend)
+## Back end
+The backend repository can be found here [here](https://github.com/pablo-chocobar/sklearn-ui-backend)
 
-the frontend repository can be found here [here](https://github.com/pablo-chocobar/sklearn-ui-frontend/)
+The backend utilizes Python , Flask, scikit-learn, Pandas and joblib.
 
-the backend utilizes Python , Flask, scikit-learn, Pandas and joblib.
-the frontend was created with NextJS and TailwindCSS
+## Front end
+The frontend repository can be found here [here](https://github.com/pablo-chocobar/sklearn-ui-frontend/)
+
+The frontend was created with NextJS and TailwindCSS
